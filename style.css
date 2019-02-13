@@ -1,0 +1,24 @@
+.container {
+  padding: 5%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr {
+  height: 25px;
+}
+
+td {
+  border: solid 1px black;
+  width: 80px;
+  padding: 0;
+}
+
+input {
+  border: none;
+  margin: 0;
+  padding: 0;
+  height: 25px;
+}
